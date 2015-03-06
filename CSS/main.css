@@ -1,0 +1,212 @@
+
+html {
+  font-family: Merriweather, serif;
+  box-sizing: inherit;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding-bottom: .5em;
+  margin: 0;
+}
+
+header {
+  background-color: #cd5b34;
+  padding-top: .5em;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  margin: .6em;
+}
+
+nav {
+  background-color: #cd5b34;
+  color: white;
+}
+
+.grains {
+  width: 31%;
+  float: left;
+  clear: left;
+  margin-right: 10px;
+}
+
+.cereals {
+  width: 31%;
+  float: right;
+  clear: left;
+}
+
+.quinoa {
+  width: 31%;
+  float: right;
+  clear: both;
+}
+
+.corn {
+    width: 100%;
+  background-color: #d98156;
+  margin: 0;
+}
+
+.rice {
+  width: 50%;
+  float: left;
+  margin: 0;
+}
+.rice img {
+    width: 100%;
+  background-color: #d98156;
+  margin: 0;
+}
+.rice figcaption {
+  text-align: center;
+  margin: -5px 0 0 0;
+}
+.oats figcaption {
+  text-align: center;
+  margin: -5px 0 0 0;
+}
+.oats img{
+width: 100%;
+  background-color: #d98156;
+  margin: 0;
+}
+.oats {
+  width: 50%;
+  float: right;
+  margin: 0;
+}
+
+.peanuts {
+    width: 20%;
+  margin:0;
+  float: left;
+  clear: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  box-sizing: border-box;
+  display: inline-block;
+}
+
+.beans {
+    width: 20%;
+  margin:0;
+  float: left;
+  clear: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  box-sizing: border-box;
+  display: inline-block;
+}
+
+.lentils {
+    width: 20%;
+  margin:0;
+  float: left;
+  clear: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  box-sizing: border-box;
+  display: inline-block;
+}
+
+.p2 {
+  clear: left;
+}
+
+.p1 {
+
+}
+
+.grain-left {
+  width: 7%;
+  float: left;
+}
+
+.grain-right {
+  width: 7%;
+  float: right;
+}
+
+h2 {
+  color: white;
+  background-color: #d98156;
+  text-align: center;
+  padding-bottom: .5em;
+  padding-top: .5em;
+  margin: 0;
+  overflow: hidden;
+  display: block;
+  clear: both;
+}
+
+h3 {
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+  width: 30%;
+  padding: .5em;
+  text-align: center;
+  border: 1px solid #a43f39;
+  float: left;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+nav ol {
+  overflow: hidden;
+  margin: auto;
+  width: 100%;
+  padding: 0;
+
+}
+
+figcaption {
+  color: white;
+  background-color: #cd5b34;
+  padding-top: .5em;
+  overflow: hidden;
+}
+
+footer {
+  color: #e6ad88;
+  text-align: center;
+  padding-bottom: .5em;
+  margin: 0;
+  background-color: #cd5b34;
+  padding-top: .5em;
+  overflow: hidden;
+  float: top;
+}
+
+div{
+  background-color: #d98156;
+  border: none;
+  overflow: hidden;
+
+
+.cf{
+  background-color: #d98156;
+  color:white;
+  text-align: center;
+  clear: both;
+  float: none;
+  font-family: 'Lato', sans-serif;
+}
